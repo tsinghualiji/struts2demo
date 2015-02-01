@@ -6,7 +6,7 @@
 	<!-- 
 		constant：配置常量
 			* name：指定的是struts2框架底层提供的default.properties资源文件中配置的"常量"
-			* value：指定的是配置常量的值
+			 * value：指定的是配置常量的值
 			* 在struts.xml文件中，配置的常量的值会覆盖底层提供的default.properties资源文件中配置的常量的值
 		
 		* 配置struts2框架的页面中请求连接的后缀名，如果指定多个的话，用","隔开
